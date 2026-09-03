@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://excellenthracademy-hub.github.io/excellent-hr-academy-belagavi/sitemap.xml
