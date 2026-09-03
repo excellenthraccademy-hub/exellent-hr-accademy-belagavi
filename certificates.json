@@ -1,0 +1,18 @@
+[
+  {
+    "certificateNo": "EHRTA-2026-0001",
+    "name": "Demo Student One",
+    "course": "Basic HR Training",
+    "duration": "1 Month",
+    "completionDate": "01-10-2026",
+    "status": "Completed"
+  },
+  {
+    "certificateNo": "EHRTA-2026-0002",
+    "name": "Demo Student Two",
+    "course": "Basic HR Training",
+    "duration": "1 Month",
+    "completionDate": "01-10-2026",
+    "status": "Completed"
+  }
+]
