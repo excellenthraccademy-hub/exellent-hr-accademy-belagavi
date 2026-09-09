@@ -1,27 +1,27 @@
 [
   {
-    "certificateNo": "EHRTA-2026-0001",
-    "name": "Ganesh Patil ",
+    "certificate_No": "EHRTA-2026-0001",
+    "student_name": "Ganesh Patil",
     "course": "Basic HR Training",
     "duration": "1 Month",
-    "completionDate": "01-10-2026",
+    "completion_Date": "01-10-2026",
     "status": "Completed"
   },
   {
-    "certificateNo": "EHRTA-2026-0002",
-    "name": "Siddappa rente",
+    "certificate_No": "EHRTA-2026-0002",
+    "student_name": "Siddappa rente",
     "course": "Basic HR Training",
     "duration": "1 Month",
-    "completionDate": "01-10-2026",
+    "completion_Date": "01-10-2026",
     "status": "Completed"
   }
 ]
   {
-    "certificateNo": "EHRTA-2026-0002",
-    "name": "mary perike",
+    "certificate_No": "EHRTA-2026-0002",
+    "student_name": "mary perike",
     "course": "Basic HR Training",
     "duration": "1 Month",
-    "completionDate": "01-10-2026",
+    "completion_Date": "01-10-2026",
     "status": "Completed"
   }
 ]
